@@ -11,9 +11,7 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', 'HotelController@home');
 
 /*
 -- this route use for creating data seo in table seo_data_hotel

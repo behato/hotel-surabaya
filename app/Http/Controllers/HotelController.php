@@ -29,4 +29,9 @@ class HotelController extends Controller
     	}
     	return $name;
     }
+
+    public function home(){
+    	$data = data_hotel::paginate(12);
+    	return view("index", compact('data'));
+    }
 }
