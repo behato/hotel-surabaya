@@ -9,15 +9,15 @@ i made this project is just for fun, not any other purposes. i got the data from
 
 * clone this repository
 
-      git clone [this repository]
+            git clone [this repository]
       
 * update composer [note] : you must get into root directory of your project
 
-      composer update
+            composer update
     
 * update key .env
 
-      php artisan key:generate
+            php artisan key:generate
       
 great! 
 
@@ -25,10 +25,10 @@ great!
 
 * run php self server
   
-      php artisan serve
+            php artisan serve
       
 * open browser
 
-      url : http://localhost:8000
+            url : http://localhost:8000
       
 note : i assume that you use linux system, iam not guarantee that above step useful for windows or osx.
