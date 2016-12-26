@@ -1,4 +1,4 @@
-![alt tag](http://www.goindonesia.com/cdn/iassets/cdn.goindonesia.com/images/indonesia/hotels/jawa/surabaya/quest_hotel_surabaya/quest_hotel_surabaya-16.jpg)
+![alt tag](http://i.imgur.com/CgBIQ5K.png)
 
 
 # Info Hotel Surabaya
