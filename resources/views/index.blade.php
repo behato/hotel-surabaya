@@ -51,13 +51,14 @@
     <div class="thumbnail">
       <img src="https://origin.pegipegi.com/jalan/images/pictS/Y7/Y970057/Y970057009.jpg" alt="...">
       <div class="caption">
-        <h3>{{$key->nama_hotel}}</h3>
+        <h3>{{TitleShorter($key->nama_hotel)}}</h3>
         <p>Stars <span class="badge">{{$key->bintang}}</span></p>
         <p><a href="#" class="btn btn-primary" role="button">Detail</a> <a href="http://{{$key->website}}" class="btn btn-default" role="button">Website</a></p>
       </div>
     </div>
   </div>
   @endforeach
+  <center><div class="center">{{$data->links()}}</div></center>
 </div>
 
 @endsection

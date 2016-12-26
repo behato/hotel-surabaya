@@ -11,4 +11,7 @@
 	.grid-hotel{
 		margin:10px;
 	}
+	.center{
+		margin: 0px auto;
+	}
 </style>
